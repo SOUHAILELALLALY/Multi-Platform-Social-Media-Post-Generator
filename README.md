@@ -4,20 +4,20 @@ It retrieves transcripts from YouTube, processes them through an AI-powered cont
 
 # Features
 
-  Fetch YouTube transcripts
-
-  Generate platform-specific content using Google Gemini 2.0 Flash
-
-  Multi-platform support (LinkedIn, Instagram, Twitter, etc.)
-
-  Async execution for faster processing
+    Fetch YouTube transcripts
+  
+    Generate platform-specific content using Google Gemini 2.0 Flash
+  
+    Multi-platform support (LinkedIn, Instagram, Twitter, etc.)
+  
+    Async execution for faster processing
 
 # Requirements
 
-  openai
-  
-  openai-agents
-  
-  youtube-transcript-api
-  
-  python-dotenv
+    openai
+    
+    openai-agents
+    
+    youtube-transcript-api
+    
+    python-dotenv

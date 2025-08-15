@@ -11,3 +11,13 @@ Generate platform-specific content using Google Gemini 2.0 Flash
 Multi-platform support (LinkedIn, Instagram, Twitter, etc.)
 
 Async execution for faster processing
+
+# Requirements
+
+Python 3.9+
+
+youtube-transcript-api
+
+google-generativeai
+
+python-dotenv

@@ -14,10 +14,10 @@ Async execution for faster processing
 
 # Requirements
 
-Python 3.9+
+openai
+
+openai-agents
 
 youtube-transcript-api
-
-google-generativeai
 
 python-dotenv
